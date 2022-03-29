@@ -1,0 +1,1 @@
+This project is a basic collection of recipes on HTML pages. The goal of this project is to demonstrate basic understanding of HTML concepts, including tag usage, HTML boilerplate, and relative linking.
